@@ -7,9 +7,9 @@ import { motion } from "framer-motion";
 
 const SearchBar = () => {
   let [isOpen, setIsOpen] = useState(false);
-  function closeModal() {
-    setIsOpen(false);
-  }
+  // function closeModal() {
+  //   setIsOpen(false);
+  // }
 
   function openModal() {
     setIsOpen(true);
