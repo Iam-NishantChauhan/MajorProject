@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React from "react";
 import { BiSearchAlt } from "react-icons/bi";
 import { BsBellFill } from "react-icons/bs";
 import { BiChevronDown } from "react-icons/bi";
