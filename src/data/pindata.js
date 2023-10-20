@@ -919,27 +919,197 @@ const pindata = [
     link: "https://i.pinimg.com/236x/fb/12/ca/fb12caa18e7b22fbf81817b2e088f15e.jpg",
     size: "small",
   },
+  {
+    id: 4001,
+    cId: 4,
+    imgSrc:
+      "https://i.pinimg.com/236x/f6/8e/ab/f68eab3d3cd2920e0a00c31ad3835d66.jpg",
+    name: "accessory",
+    link: "https://i.pinimg.com/236x/f6/8e/ab/f68eab3d3cd2920e0a00c31ad3835d66.jpg",
+    size: "medium",
+  },
+  {
+    id: 4002,
+    cId: 4,
+    imgSrc:
+      "https://i.pinimg.com/236x/2b/f0/ce/2bf0ceb1eb5f1925238528b17e3ba18a.jpg",
+    name: "accessory",
+    link: "https://i.pinimg.com/236x/2b/f0/ce/2bf0ceb1eb5f1925238528b17e3ba18a.jpg",
+    size: "medium",
+  },
+  {
+    id: 4003,
+    cId: 4,
+    imgSrc:
+      "https://i.pinimg.com/236x/b0/03/ec/b003ec6d0d0cf9e7045b4022eaf40721.jpg",
+    name: "accessory",
+    link: "https://i.pinimg.com/236x/b0/03/ec/b003ec6d0d0cf9e7045b4022eaf40721.jpg",
+    size: "large",
+  },
+  {
+    id: 4004,
+    cId: 4,
+    imgSrc:
+      "https://i.pinimg.com/236x/7a/ce/38/7ace38fe4ea7279a10665dceb6805a07.jpg",
+    name: "accessory",
+    link: "https://i.pinimg.com/236x/7a/ce/38/7ace38fe4ea7279a10665dceb6805a07.jpg",
+    size: "medium",
+  },
+  {
+    id: 4005,
+    cId: 4,
+    imgSrc:
+      "https://i.pinimg.com/236x/82/6c/46/826c46b5cc19a3a73378635d7d309d31.jpg",
+    name: "accessory",
+    link: "https://i.pinimg.com/236x/82/6c/46/826c46b5cc19a3a73378635d7d309d31.jpg",
+    size: "large",
+  },
+  {
+    id: 4006,
+    cId: 4,
+    imgSrc:
+      "https://i.pinimg.com/236x/e2/15/45/e21545d2eca589073e04ed06ffa71afb.jpg",
+    name: "accessory",
+    link: "https://i.pinimg.com/236x/e2/15/45/e21545d2eca589073e04ed06ffa71afb.jpg",
+    size: "small",
+  },
+  {
+    id: 4007,
+    cId: 4,
+    imgSrc:
+      "https://i.pinimg.com/236x/8f/fb/05/8ffb05af309432808f69aaee5134caf3.jpg",
+    name: "accessory",
+    link: "https://i.pinimg.com/236x/8f/fb/05/8ffb05af309432808f69aaee5134caf3.jpg",
+    size: "small",
+  },
 
   //   fashion
   {
     id: 5000,
     cId: 5,
     imgSrc:
-      "https://i.pinimg.com/236x/fb/12/ca/fb12caa18e7b22fbf81817b2e088f15e.jpg",
+      "https://i.pinimg.com/236x/c2/b3/81/c2b381b005db07e0bfd8ba194bdc2076.jpg",
     name: "fashion",
-    link: "https://i.pinimg.com/236x/fb/12/ca/fb12caa18e7b22fbf81817b2e088f15e.jpg",
+    link: "https://i.pinimg.com/236x/c2/b3/81/c2b381b005db07e0bfd8ba194bdc2076.jpg",
+    size: "large",
+  },
+  {
+    id: 5001,
+    cId: 5,
+    imgSrc:
+      "https://i.pinimg.com/236x/5e/5a/eb/5e5aeb57adbd726e5303ada309bf58c5.jpg",
+    name: "fashion",
+    link: "https://i.pinimg.com/236x/5e/5a/eb/5e5aeb57adbd726e5303ada309bf58c5.jpg",
+    size: "large",
+  },
+  {
+    id: 5002,
+    cId: 5,
+    imgSrc:
+      "https://i.pinimg.com/236x/30/92/00/3092005b06ac9078a620aeac128f8710.jpg",
+    name: "fashion",
+    link: "https://i.pinimg.com/236x/30/92/00/3092005b06ac9078a620aeac128f8710.jpg",
+    size: "large",
+  },
+  {
+    id: 5003,
+    cId: 5,
+    imgSrc:
+      "https://i.pinimg.com/236x/57/a3/af/57a3af32f7b2b2a55719bb5e6e598b8c.jpg",
+    name: "fashion",
+    link: "https://i.pinimg.com/236x/57/a3/af/57a3af32f7b2b2a55719bb5e6e598b8c.jpg",
+    size: "medium",
+  },
+  {
+    id: 5004,
+    cId: 5,
+    imgSrc:
+      "https://i.pinimg.com/236x/5f/df/a7/5fdfa72b354382e216bfdd3c2e8b2fe4.jpg",
+    name: "fashion",
+    link: "https://i.pinimg.com/236x/5f/df/a7/5fdfa72b354382e216bfdd3c2e8b2fe4.jpg",
     size: "small",
   },
-
+  {
+    id: 5005,
+    cId: 5,
+    imgSrc:
+      "https://i.pinimg.com/236x/1a/23/4b/1a234b92bab90962768eee4a114a0a44.jpg",
+    name: "fashion",
+    link: "https://i.pinimg.com/236x/1a/23/4b/1a234b92bab90962768eee4a114a0a44.jpg",
+    size: "large",
+  },
+  {
+    id: 5006,
+    cId: 5,
+    imgSrc:
+      "https://i.pinimg.com/236x/d8/3b/f4/d83bf4b9d15f955e828e8af125beb9cb.jpg",
+    name: "fashion",
+    link: "https://i.pinimg.com/236x/d8/3b/f4/d83bf4b9d15f955e828e8af125beb9cb.jpg",
+    size: "large",
+  },
   // plantation
   {
     id: 6000,
     cId: 6,
     imgSrc:
-      "https://i.pinimg.com/236x/fb/12/ca/fb12caa18e7b22fbf81817b2e088f15e.jpg",
+      "https://i.pinimg.com/236x/6a/36/44/6a36445c0e22dbde624c7ba51bebe8cf.jpg",
     name: "plantation",
-    link: "https://i.pinimg.com/236x/fb/12/ca/fb12caa18e7b22fbf81817b2e088f15e.jpg",
+    link: "https://i.pinimg.com/236x/6a/36/44/6a36445c0e22dbde624c7ba51bebe8cf.jpg",
+    size: "large",
+  },
+  {
+    id: 6001,
+    cId: 6,
+    imgSrc:
+      "https://i.pinimg.com/236x/1e/65/88/1e65889a44b7ae4a58f1efc1ea3c81bc.jpg",
+    name: "plantation",
+    link: "https://i.pinimg.com/236x/1e/65/88/1e65889a44b7ae4a58f1efc1ea3c81bc.jpg",
+    size: "medium",
+  },
+  {
+    id: 6002,
+    cId: 6,
+    imgSrc:
+      "https://i.pinimg.com/236x/b5/2f/94/b52f9436febb642ef29d483429459248.jpg",
+    name: "plantation",
+    link: "https://i.pinimg.com/236x/b5/2f/94/b52f9436febb642ef29d483429459248.jpg",
     size: "small",
+  },
+  {
+    id: 6003,
+    cId: 6,
+    imgSrc:
+      "https://i.pinimg.com/236x/65/c4/de/65c4deaec7e7b7fe99fed24d81eda58c.jpg",
+    name: "plantation",
+    link: "https://i.pinimg.com/236x/65/c4/de/65c4deaec7e7b7fe99fed24d81eda58c.jpg",
+    size: "medium",
+  },
+  {
+    id: 6004,
+    cId: 6,
+    imgSrc:
+      "https://i.pinimg.com/236x/b0/3b/4e/b03b4e275f47142f2972bfda743f0c92.jpg",
+    name: "plantation",
+    link: "https://i.pinimg.com/236x/b0/3b/4e/b03b4e275f47142f2972bfda743f0c92.jpg",
+    size: "large",
+  },
+  {
+    id: 6005,
+    cId: 6,
+    imgSrc:
+      "https://i.pinimg.com/236x/09/5b/8e/095b8e9332a89c416eccae89f62b73d2.jpg",
+    name: "plantation",
+    link: "https://i.pinimg.com/236x/09/5b/8e/095b8e9332a89c416eccae89f62b73d2.jpg",
+    size: "small",
+  },
+  {
+    id: 6006,
+    cId: 6,
+    imgSrc:
+      "https://i.pinimg.com/236x/68/17/39/681739e98640405f26aab662a070c196.jpg",
+    name: "plantation",
+    link: "https://i.pinimg.com/236x/68/17/39/681739e98640405f26aab662a070c196.jpg",
+    size: "medium",
   },
 
   // anime
@@ -947,10 +1117,74 @@ const pindata = [
     id: 7000,
     cId: 7,
     imgSrc:
-      "https://i.pinimg.com/236x/fb/12/ca/fb12caa18e7b22fbf81817b2e088f15e.jpg",
+      "https://i.pinimg.com/236x/ac/22/a5/ac22a5062bf7249d0b75318fcbd52da8.jpg",
     name: "anime",
-    link: "https://i.pinimg.com/236x/fb/12/ca/fb12caa18e7b22fbf81817b2e088f15e.jpg",
-    size: "small",
+    link: "https://i.pinimg.com/236x/ac/22/a5/ac22a5062bf7249d0b75318fcbd52da8.jpg",
+    size: "large",
+  },
+  {
+    id: 7001,
+    cId: 7,
+    imgSrc:
+      "https://i.pinimg.com/236x/61/93/d8/6193d8871ad85e73cc6e5709a209c42e.jpg",
+    name: "anime",
+    link: "https://i.pinimg.com/236x/61/93/d8/6193d8871ad85e73cc6e5709a209c42e.jpg",
+    size: "large",
+  },
+
+  {
+    id: 7002,
+    cId: 7,
+    imgSrc:
+      "https://i.pinimg.com/236x/59/68/14/5968140ddc195675da80d18473fecce1.jpg",
+    name: "anime",
+    link: "https://i.pinimg.com/236x/59/68/14/5968140ddc195675da80d18473fecce1.jpg",
+    size: "large",
+  },
+  {
+    id: 7003,
+    cId: 7,
+    imgSrc:
+      "https://i.pinimg.com/236x/43/cd/7c/43cd7c65d590d2f41c05a23f3dfe82d4.jpg",
+    name: "anime",
+    link: "https://i.pinimg.com/236x/43/cd/7c/43cd7c65d590d2f41c05a23f3dfe82d4.jpg",
+    size: "medium",
+  },
+  {
+    id: 7004,
+    cId: 7,
+    imgSrc:
+      "https://i.pinimg.com/236x/99/12/97/9912971b71c493550dfa77a33bebaaf5.jpg",
+    name: "anime",
+    link: "https://i.pinimg.com/236x/99/12/97/9912971b71c493550dfa77a33bebaaf5.jpg",
+    size: "large",
+  },
+  {
+    id: 7005,
+    cId: 7,
+    imgSrc:
+      "https://i.pinimg.com/236x/6a/8e/47/6a8e475661737cff2dfbf9084330c16f.jpg",
+    name: "anime",
+    link: "https://i.pinimg.com/236x/6a/8e/47/6a8e475661737cff2dfbf9084330c16f.jpg",
+    size: "medium",
+  },
+  {
+    id: 7006,
+    cId: 7,
+    imgSrc:
+      "https://i.pinimg.com/474x/59/3d/62/593d62834a758b3e22675b0b4dca9bfa.jpg",
+    name: "anime",
+    link: "https://i.pinimg.com/474x/59/3d/62/593d62834a758b3e22675b0b4dca9bfa.jpg",
+    size: "large",
+  },
+  {
+    id: 7007,
+    cId: 7,
+    imgSrc:
+      "https://i.pinimg.com/236x/1c/33/73/1c337314fa7670499128a97e9da24bfa.jpg",
+    name: "anime",
+    link: "https://i.pinimg.com/236x/1c/33/73/1c337314fa7670499128a97e9da24bfa.jpg",
+    size: "large",
   },
 
   // sports
@@ -958,10 +1192,64 @@ const pindata = [
     id: 8000,
     cId: 8,
     imgSrc:
-      "https://i.pinimg.com/236x/fb/12/ca/fb12caa18e7b22fbf81817b2e088f15e.jpg",
+      "https://i.pinimg.com/236x/42/06/b7/4206b73d45c5b8079ab4561d6ebce880.jpg",
     name: "sports",
-    link: "https://i.pinimg.com/236x/fb/12/ca/fb12caa18e7b22fbf81817b2e088f15e.jpg",
+    link: "https://i.pinimg.com/236x/42/06/b7/4206b73d45c5b8079ab4561d6ebce880.jpg",
+    size: "large",
+  },
+  {
+    id: 8001,
+    cId: 8,
+    imgSrc:
+      "https://i.pinimg.com/236x/e9/51/57/e95157d59baecb254589d8dc624eabaf.jpg",
+    name: "sports",
+    link: "https://i.pinimg.com/236x/e9/51/57/e95157d59baecb254589d8dc624eabaf.jpg",
+    size: "medium",
+  },
+  {
+    id: 8002,
+    cId: 8,
+    imgSrc:
+      "https://i.pinimg.com/236x/5f/9b/14/5f9b1417675a07e2ee46a0b76633d708.jpg",
+    name: "sports",
+    link: "https://i.pinimg.com/236x/5f/9b/14/5f9b1417675a07e2ee46a0b76633d708.jpg",
+    size: "large",
+  },
+  {
+    id: 8003,
+    cId: 8,
+    imgSrc:
+      "https://i.pinimg.com/236x/68/0c/d7/680cd700cae993f7f6834b1bebd67108.jpg",
+    name: "sports",
+    link: "https://i.pinimg.com/236x/68/0c/d7/680cd700cae993f7f6834b1bebd67108.jpg",
+    size: "medium",
+  },
+  {
+    id: 8004,
+    cId: 8,
+    imgSrc:
+      "https://i.pinimg.com/236x/e1/d2/1b/e1d21b35af3764fca746c8aa50471a16.jpg",
+    name: "sports",
+    link: "https://i.pinimg.com/236x/e1/d2/1b/e1d21b35af3764fca746c8aa50471a16.jpg",
     size: "small",
+  },
+  {
+    id: 8005,
+    cId: 8,
+    imgSrc:
+      "https://i.pinimg.com/236x/5d/7c/ff/5d7cff86488b2b26db073d041b559bc2.jpg",
+    name: "sports",
+    link: "https://i.pinimg.com/236x/5d/7c/ff/5d7cff86488b2b26db073d041b559bc2.jpg",
+    size: "small",
+  },
+  {
+    id: 8006,
+    cId: 8,
+    imgSrc:
+      "https://i.pinimg.com/236x/d8/c8/35/d8c835aaec2c1fdb0b85a12ca6407b8d.jpg",
+    name: "sports",
+    link: "https://i.pinimg.com/236x/d8/c8/35/d8c835aaec2c1fdb0b85a12ca6407b8d.jpg",
+    size: "medium",
   },
 ];
 
